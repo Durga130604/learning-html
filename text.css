@@ -1,0 +1,19 @@
+.head{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: lightgrey;
+    text-decoration-style: italic;
+    word-spacing: 30px;
+    font-family: Times New Roman;
+    text-transform: uppercase;
+
+}
+
+.para{
+    font-weight: 40px;
+    letter-spacing: 5px;
+    line-height: 40px;
+    color: blueviolet;
+}
