@@ -1,0 +1,9 @@
+.head{
+    background-color: lightslategray;
+    height:  500px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+}
