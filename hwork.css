@@ -1,0 +1,27 @@
+body{
+    background: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.head{
+    background-color: white;
+    height: 400px;
+    max-width: 900px;
+    gap: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    border-radius: 10px;
+    
+ }
+.contact-btn{
+    background: yellow;
+    padding: 6px 16px;
+}
+
+     
+
+
