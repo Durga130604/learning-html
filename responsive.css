@@ -1,0 +1,33 @@
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.parent div{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    border: 2px solid black;
+}
+
+/* @media screen  and (min-width:500px) { 
+    body{
+        background-color: lightgreen;
+    }
+    
+ } */
+
+ /* @media screen and (max-width:1000px){  
+    body{
+        background-color: lightgreen;
+    }
+ 
+ } */
+  
+ @media screen and (min-width:500px) and (max-width:850px) { 
+    body{
+        background-color: bisque;
+    }
+    
+}
